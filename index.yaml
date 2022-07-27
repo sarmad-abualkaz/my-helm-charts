@@ -3,7 +3,27 @@ entries:
   nginx-echo-headers:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-25T18:47:09.815583-04:00"
+    created: "2022-07-27T12:27:33.125648-04:00"
+    description: A Helm chart for Kubernetes
+    digest: fa183bb12d115e81e6bd5cb73e47733faa76211f9b95c06b0f74893c4be6a44d
+    name: nginx-echo-headers
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/nginx-echo-headers-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-27T12:27:33.124467-04:00"
+    description: A Helm chart for Kubernetes
+    digest: b7db86816e7ad39a66636c53f80fdd22427b5678b284e4fb1c080dbc0e6d84f5
+    name: nginx-echo-headers
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/nginx-echo-headers-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-27T12:27:33.123884-04:00"
     description: A Helm chart for Kubernetes
     digest: 7960c43e896cab5132e9c9e65052af0cead023be92b25cff06bb728676d9f2cf
     name: nginx-echo-headers
@@ -11,4 +31,4 @@ entries:
     urls:
     - https://sarmad-abualkaz.github.io/my-helm-charts/nginx-echo-headers-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-25T18:47:09.814808-04:00"
+generated: "2022-07-27T12:27:33.123225-04:00"
