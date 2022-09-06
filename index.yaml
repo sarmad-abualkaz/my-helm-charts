@@ -2,8 +2,48 @@ apiVersion: v1
 entries:
   argo-ecr-auth:
   - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-09-06T11:26:04.265169-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 02803986f13cab87370eebb3dcc6f3c58849020ed1b83f11f3dbfd699baff32f
+    name: argo-ecr-auth
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/argo-ecr-auth-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-09-06T11:26:04.26213-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 32306f052e8733a59681deeda2a49fca662f910ed44c14f3909cd5a433d22051
+    name: argo-ecr-auth
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/argo-ecr-auth-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2022-09-06T11:26:04.261449-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 978637ab6b6aee16143267b07e753c874728319dd069b8bcbf428f7abbb06be7
+    name: argo-ecr-auth
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/argo-ecr-auth-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2022-09-06T11:26:04.261075-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b10a45e58b5e3e88a5470f0d839667d1bf4813fbbb3d6d72cd6fea60f250747
+    name: argo-ecr-auth
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/argo-ecr-auth-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 0.0.2
-    created: "2022-08-12T10:22:11.33998-04:00"
+    created: "2022-09-06T11:26:04.260239-04:00"
     description: A Helm chart for Kubernetes
     digest: 4776fa5db6229dd41a0562f86bcce53cd8e74826c69b3648c508e78363ed6e9b
     name: argo-ecr-auth
@@ -11,10 +51,21 @@ entries:
     urls:
     - https://sarmad-abualkaz.github.io/my-helm-charts/argo-ecr-auth-0.1.0.tgz
     version: 0.1.0
+  helm-release-cleaner:
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2022-09-06T11:26:04.26541-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 531db88db0332d05007c5f0661a3d6d1fd307753931a491bcf26fd0519f163e1
+    name: helm-release-cleaner
+    type: application
+    urls:
+    - https://sarmad-abualkaz.github.io/my-helm-charts/helm-release-cleaner-0.1.1.tgz
+    version: 0.1.1
   k8s-s3-sync:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-12T10:22:11.348371-04:00"
+    created: "2022-09-06T11:26:04.267283-04:00"
     description: A Helm chart for Kubernetes
     digest: a73765550a77109cb671513562b145024726b7c6d49e99157ef0e003ab91ab4f
     name: k8s-s3-sync
@@ -25,7 +76,7 @@ entries:
   nginx-echo-headers:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.369946-04:00"
+    created: "2022-09-06T11:26:04.280694-04:00"
     description: A Helm chart for Kubernetes
     digest: df82811092659f6fb4a930e1b0c20366975b27565e9662c71edb76d1f12457fa
     name: nginx-echo-headers
@@ -35,7 +86,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.366783-04:00"
+    created: "2022-09-06T11:26:04.278609-04:00"
     description: A Helm chart for Kubernetes
     digest: e87bede1119ee7d4172166fcc36d5869764cc0ae89ac48abd997198f3a9705f3
     name: nginx-echo-headers
@@ -45,7 +96,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.363514-04:00"
+    created: "2022-09-06T11:26:04.275769-04:00"
     description: A Helm chart for Kubernetes
     digest: c720be67e5e452a0d8f2fd4cd701942853b6d7fff1c31507dcc1e7bcfbc9366e
     name: nginx-echo-headers
@@ -55,7 +106,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.359826-04:00"
+    created: "2022-09-06T11:26:04.273461-04:00"
     description: A Helm chart for Kubernetes
     digest: fa183bb12d115e81e6bd5cb73e47733faa76211f9b95c06b0f74893c4be6a44d
     name: nginx-echo-headers
@@ -65,7 +116,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.354719-04:00"
+    created: "2022-09-06T11:26:04.271178-04:00"
     description: A Helm chart for Kubernetes
     digest: b7db86816e7ad39a66636c53f80fdd22427b5678b284e4fb1c080dbc0e6d84f5
     name: nginx-echo-headers
@@ -75,7 +126,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-12T10:22:11.351342-04:00"
+    created: "2022-09-06T11:26:04.268999-04:00"
     description: A Helm chart for Kubernetes
     digest: 7960c43e896cab5132e9c9e65052af0cead023be92b25cff06bb728676d9f2cf
     name: nginx-echo-headers
@@ -83,4 +134,4 @@ entries:
     urls:
     - https://sarmad-abualkaz.github.io/my-helm-charts/nginx-echo-headers-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-12T10:22:11.339368-04:00"
+generated: "2022-09-06T11:26:04.257293-04:00"
